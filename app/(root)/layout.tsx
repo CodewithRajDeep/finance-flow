@@ -1,3 +1,4 @@
+import Sidebar from "@/components/ui/Sidebar";
 
 
 export default function RootLayout({
@@ -5,9 +6,11 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+
+  const loggedIn = {firstName: 'RAJ', lastName: 'DEEP'};
   return (
- <main>
-    SIDEBAR
+ <main className="flex h-screen w-full font-inter">
+    <Sidebar user={loggedIn}/>
     {children}
  </main>
   );
