@@ -1,7 +1,7 @@
 ## Title: FinanceFlow
 
 ## Description:
-This project aims to address these shortcomings by developing a robust and innovative personal finance management platform that integrates seamlessly with online banking functionalities. This platform will empower users to consolidate multiple financial accounts into a single, secure interface, gain real-time insights into spending habits, budgeting, and investment performance, set and track financial goals effectively, access personalized financial advice and recommendations, and conduct  secure online .
+This project aims to address these shortcomings by developing a robust and innovative personal finance management platform that integrates seamlessly with online banking functionalities. This platform will empower users to consolidate multiple financial accounts into a single, secure interface, gain real-time insights into spending habits, budgeting, and investment performance, set and track financial goals effectively, access personalized financial advice and recommendations, and conduct  secure online transactions with ease .
 
 
 ## Getting Started
