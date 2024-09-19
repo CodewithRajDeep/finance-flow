@@ -1,6 +1,6 @@
-import HeaderBox from "@/components/ui/HeaderBox";
-import RightSidebar from "@/components/ui/RightSidebar";
-import TotalBalanceBox from "@/components/ui/TotalBalanceBox";
+import HeaderBox from "@/components/HeaderBox";
+import RightSidebar from "@/components/RightSidebar";
+import TotalBalanceBox from "@/components/TotalBalanceBox";
 
 const Home = () => {
     const loggedIn = { firstName: 'RAJ', lastName: 'DEEP', email: 'contactraj@gmail.com' };

@@ -16,7 +16,7 @@ declare type SignUpParams = {
   postalCode?: string;
   dateOfBirth?: string;
   ssn?: string;
-  email?: string;
+  email: string;
   password: string;
 };
 
