@@ -67,7 +67,7 @@ return (
             USER
     </nav>
             </SheetClose>
-            <Footer/>
+            <Footer user={user} type="mobile"/>
         </div>
         </SheetContent>
     </Sheet>
