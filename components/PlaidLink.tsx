@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import { createLinkToken, exchangePublicToken } from '@/lib/actions/user.actions';
 import Image from 'next/image';
 
+
 const PlaidLink = ({ user, variant }: PlaidLinkProps) => {
   const router = useRouter();
 
@@ -27,7 +28,7 @@ const PlaidLink = ({ user, variant }: PlaidLinkProps) => {
     })
 
     router.push('/');
-  }, [user])
+  },[router, user])
   
   const config: PlaidLinkOptions = {
     token,
@@ -35,6 +36,7 @@ const PlaidLink = ({ user, variant }: PlaidLinkProps) => {
   }
 
   const { open, ready } = usePlaidLink(config);
+  
   return (
     <>
       {variant === 'primary' ? (

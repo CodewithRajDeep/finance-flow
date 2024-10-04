@@ -15,6 +15,7 @@ import { getLoggedInUser, signIn, signUp } from "@/lib/actions/user.actions";
 import { useRouter } from "next/navigation";
 import PlaidLink from "./PlaidLink";
 import { PassThrough } from "stream";
+import React from "react";
 
 const AuthForm = ({ type }: { type: string }) => {
   const router = useRouter();
