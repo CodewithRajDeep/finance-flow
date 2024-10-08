@@ -1,7 +1,7 @@
 ## Title: FinanceFlow
 
 ## Description:
-This project aims to address these shortcomings by developing a robust and innovative personal finance management platform that integrates seamlessly with online banking functionalities. This platform will empower users to consolidate multiple financial accounts into a single, secure interface, gain real-time insights into spending habits, budgeting, and investment performance, set and track financial goals effectively, access personalized financial advice and recommendations, and conduct  secure online transactions with ease.
+This project aims to address these shortcomings by developing a robust and innovative centralized banking system with customized  finance management platform that integrates seamlessly with online banking functionalities. This platform will empower users to consolidate multiple financial accounts into a single, secure interface, gain real-time insights into spending habits, budgeting, and investment performance, set and track financial goals effectively, access personalized financial advice and recommendations, and conduct  secure online transactions with ease.
 
 
 ## Getting Started
@@ -37,4 +37,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for   more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
