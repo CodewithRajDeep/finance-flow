@@ -125,7 +125,9 @@ Replace the placeholder values with your actual respective account credentials. 
 
 ## Contribution Guidelines: 
 Guidelines for contributing to the project.
+
 **Reporting Issues:**
+
 Search for existing issues: Before creating a new issue, search the issue tracker to see if the problem has already been reported.
 Provide clear and concise information: When creating a new issue, please include as much detail as possible, such as:
 Clear description of the problem
@@ -136,6 +138,7 @@ Screenshots or logs (if applicable)
 Use issue templates: If available, use the provided issue templates to structure your report.
 
 **Submitting Pull Requests:**
+
 Fork the repository: Create a fork of the project on your GitHub account.
 Create a new branch: Create a new branch based on the main branch or a feature branch.
 Make changes: Implement your changes and commit them with clear commit messages.
@@ -145,6 +148,7 @@ Provide details: Clearly describe the changes you've made and the benefits they 
 Address code review feedback: Be open to feedback and make necessary changes.
 
 **Testing:**
+
 Write unit tests for any new features or bug fixes.
 Ensure existing tests  pass after your changes.
 
