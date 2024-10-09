@@ -18,7 +18,7 @@ This project aims to address these shortcomings by developing a robust and innov
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Setup .env variables](#snippets)
-
+6. ❄️ [Deployment](#deployment)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -140,4 +140,5 @@ Ensure existing tests  pass after your changes.
 Copyright (c) 2024 Deep Raj 
 
 
-## Deploy on Vercel
+##<a name="#deployment">❄️ Deployment</a> 
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/finance-flow?root=finance-flow-beige.vercel.app)
