@@ -73,15 +73,15 @@ and many more, including code architecture and reusability.
      ```
  4. Open [http://localhost:3000](http://localhost:3000) with your  browser to see the result.
 
-##Prerequisites 
+## Prerequisites:
 
-Make sure you have the following installed on your machine:
+   Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+   - [Git](https://git-scm.com/)
+   - [Node.js](https://nodejs.org/en)
+   - [npm](https://www.npmjs.com/) (Node Package Manager)
 
- ## <a name="snippet">🔋 Setup Environment Variable</a>
+ ## <a name="snippet"> Setup Environment Variable</a>
 Create a new file named `.env` in the root of your project and add the following content:
 ```
 #NEXT
@@ -138,8 +138,6 @@ Ensure existing tests  pass after your changes.
 
 ## License
 Copyright (c) 2024 Deep Raj 
-
-
 
 
 ## Deploy on Vercel
