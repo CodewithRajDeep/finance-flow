@@ -141,4 +141,4 @@ Copyright (c) 2024 Deep Raj
 
 
 ## <a name="#deployment">❄️ Deployment</a> 
-![Vercel Deploy](https://deploy-badge.vercel.app/vercel/finance-flow-beige.vercel.app)
+![Vercel Deploy](https://deploy-badge.vercel.app/finance-flow-beige.vercel.app)
