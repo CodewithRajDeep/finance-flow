@@ -10,7 +10,7 @@ This project aims to address these shortcomings by developing a robust and innov
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-  
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#description)
@@ -19,6 +19,12 @@ This project aims to address these shortcomings by developing a robust and innov
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Setup .env variables](#snippets)
 6. ❄️ [Deployment](#deployment)
+
+
+## Work Demonstration:
+<img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="320" height="240" />
+<img src="https://drive.google.com/uc?export=view&id=1J_WliuuvXLwQE5IVhZ_IiJB4XzijEinV" width="320" height="240" />
+<img src="https://drive.google.com/uc?export=view&id=1ZHD4zfsTWE6EMbxKQS9bHCx0BwI8khj5" width="320" height="240" />
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -143,7 +149,3 @@ Copyright (c) 2024 Deep Raj
 ## <a name="deployment">❄️ Deployment</a> 
 ![Vercel Deploy](finance-flow-beige.vercel.app) 
 
-## Work Demonstration:
-<img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="320" height="240" />
-<img src="https://drive.google.com/uc?export=view&id=1J_WliuuvXLwQE5IVhZ_IiJB4XzijEinV" width="320" height="240" />
-<img src="https://drive.google.com/uc?export=view&id=1ZHD4zfsTWE6EMbxKQS9bHCx0BwI8khj5" width="320" height="240" />
