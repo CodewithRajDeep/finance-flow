@@ -10,7 +10,7 @@ This project aims to address these shortcomings by developing a robust and innov
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-[Watch the video](https://drive.google.com/file/d/1HA7-jhe63TA3GfF30_cFwk-2S4BZQOIh/view)
+[![Video Thumbnail](https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf)](https://drive.google.com/file/d/1HA7-jhe63TA3GfF30_cFwk-2S4BZQOIh/view)
 
 
 ## 📋 <a name="table">Table of Contents</a>
