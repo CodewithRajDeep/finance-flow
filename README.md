@@ -140,5 +140,5 @@ Ensure existing tests  pass after your changes.
 Copyright (c) 2024 Deep Raj 
 
 
-## <a name="#deployment">❄️ Deployment</a> 
-![Vercel Deploy](https://deploy-badge.vercel.app/finance-flow-beige.vercel.app)
+## <a name="deployment">❄️ Deployment</a> 
+![Vercel Deploy](finance-flow-beige.vercel.app)
