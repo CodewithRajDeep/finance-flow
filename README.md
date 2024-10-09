@@ -123,7 +123,7 @@ DWOLLA_ENV=sandbox
 ```
 Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Appwrite](https://appwrite.io/docs/tooling/command-line/installation), [Plaid]( https://plaid.com/docs/quickstart/) and [Dwolla](https://www.dwolla.com/)
 
-## Contributing
+## Contribution Guidelines: 
 Guidelines for contributing to the project.
 **Reporting Issues:**
 Search for existing issues: Before creating a new issue, search the issue tracker to see if the problem has already been reported.
@@ -149,8 +149,12 @@ Write unit tests for any new features or bug fixes.
 Ensure existing tests  pass after your changes.
 
 ## License
-Copyright (c) 2024 Deep Raj 
+Issued : Copyright (c) 2024 Deep Raj 
 
+## Memes: 
+<img src="https://i.gifer.com/origin/ea/ea04580a05ae61739fefe6b70f17a4c3.gif" width="256" height="256"/>
+<img src="https://i0.wp.com/www.animefeminist.com/wp-content/uploads/2018/06/type-happy-dog-motivate.gif?fit=309%2C233&ssl=1" width="256" height="256"/>
+<img src="https://i0.wp.com/www.animefeminist.com/wp-content/uploads/2018/06/pitch-baseball-explode-nichijou.gif?resize=500%2C281&ssl=1" width="256" height="256"/>
 
 ## <a name="deployment">❄️ Deployment</a> 
 ![Vercel Deploy](finance-flow-beige.vercel.app) 
