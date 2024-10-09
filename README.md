@@ -25,7 +25,7 @@ Watch the video 👇
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Setup .env variables](#snippet)
 6. ❄️ [Deployment](#deployment)
-7. 🦉[Work Demonstration] (#work-demonstration)
+7. 🦉[Work Demonstration](#work-demonstration)
 
 ##  <a name="work-demonstration"> 🦉Work Demonstration </a>
 <img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="320" height="240" />
