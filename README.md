@@ -66,7 +66,7 @@ and many more, including code architecture and reusability.
 
 1. **Clone the repository:**
    ```
-   git clone [invalid URL removed]
+   git clone [https://github.com/CodewithRajDeep/finance-flow.git]
    ```
 2. **Install all dependcies**
     ```
