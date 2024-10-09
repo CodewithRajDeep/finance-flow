@@ -144,6 +144,6 @@ Copyright (c) 2024 Deep Raj
 ![Vercel Deploy](finance-flow-beige.vercel.app) 
 
 ## Work Demonstration:
-<img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="1902" height="967" />
-<img src="https://drive.google.com/uc?export=view&id=1J_WliuuvXLwQE5IVhZ_IiJB4XzijEinV" width="540" height="480" />
-<img src="https://drive.google.com/uc?export=view&id=1ZHD4zfsTWE6EMbxKQS9bHCx0BwI8khj5" width="540" height="480" />
+<img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="320" height="240" />
+<img src="https://drive.google.com/uc?export=view&id=1J_WliuuvXLwQE5IVhZ_IiJB4XzijEinV" width="320" height="240" />
+<img src="https://drive.google.com/uc?export=view&id=1ZHD4zfsTWE6EMbxKQS9bHCx0BwI8khj5" width="320" height="240" />
