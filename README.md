@@ -1,6 +1,6 @@
 ## Title: FinanceFlow
 
-## <a name="description">⚙️ Tech Stack</a>
+## <a name="description">Description</a>
 This project aims to address these shortcomings by developing a robust and innovative centralized banking system with customized  finance management platform that integrates seamlessly with online banking functionalities. This platform will empower users to consolidate multiple financial accounts into a single, secure interface, gain real-time insights into spending habits, budgeting, and investment performance, set and track financial goals effectively, access personalized financial advice and recommendations, and conduct  secure online transactions with ease.
 
   <div>
@@ -18,8 +18,6 @@ This project aims to address these shortcomings by developing a robust and innov
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Setup .env variables](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
