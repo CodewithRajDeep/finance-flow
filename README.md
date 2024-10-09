@@ -23,11 +23,11 @@ Watch the video 👇
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Setup .env variables](#snippets)
+5. 🕸️ [Setup .env variables](#snippet)
 6. ❄️ [Deployment](#deployment)
+7. 🦉[Work Demonstration] (#work-demonstration)
 
-
-## Work Demonstration:
+##  <a name="work-demonstration"> 🦉Work Demonstration </a>
 <img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="320" height="240" />
 <img src="https://drive.google.com/uc?export=view&id=1J_WliuuvXLwQE5IVhZ_IiJB4XzijEinV" width="320" height="240" />
 <img src="https://drive.google.com/uc?export=view&id=1ZHD4zfsTWE6EMbxKQS9bHCx0BwI8khj5" width="320" height="240" />
