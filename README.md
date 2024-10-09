@@ -50,7 +50,7 @@ This project aims to address these shortcomings by developing a robust and innov
 and many more, including code architecture and reusability. 
 
 
-## <a name="quick-start">🤸 Getting Started</a
+## <a name="quick-start">🤸 Getting Started </a>
 
 1. **Clone the repository:**
    ```
