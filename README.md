@@ -163,6 +163,6 @@ Issued : Copyright (c) 2024 Deep Raj
 ## <a name="deployment">❄️ Deployment</a> 
   <a href="https://finance-flow-beige.vercel.app" title="Vercel Deploy">
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/76x76.png" alt="Vercel Logo" width="30">
-  Vercel Deploy
+  Live Finance-Flow
   </a>
 
