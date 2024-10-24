@@ -24,8 +24,7 @@ Watch the video 👇
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Setup .env variables](#snippet)
-6. ❄️ [Deployment](#deployment)
-7. 🦉[Work Demonstration](#work-demonstration)
+6. 🦉[Work Demonstration](#work-demonstration)
 
 ##  <a name="work-demonstration"> 🦉Work Demonstration </a>
 <img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="320" height="240" />
@@ -160,9 +159,4 @@ Issued : Copyright (c)| 2024 Deep Raj
 <img src="https://i0.wp.com/www.animefeminist.com/wp-content/uploads/2018/06/type-happy-dog-motivate.gif?fit=309%2C233&ssl=1" width="256" height="256"/>
 <img src="https://i0.wp.com/www.animefeminist.com/wp-content/uploads/2018/06/pitch-baseball-explode-nichijou.gif?resize=500%2C281&ssl=1" width="256" height="256"/>
 
-## <a name="deployment">❄️ Deployment</a> 
-  <a href="https://finance-flow-beige.vercel.app" title="Vercel Deploy">
-  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/76x76.png" alt="Vercel Logo" width="30">
-  Live Finance-Flow 
-  </a>
 
