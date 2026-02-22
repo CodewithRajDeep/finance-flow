@@ -22,7 +22,7 @@
     "clsx": "^2.1.1",
     "dwolla-v2": "^3.4.0",
     "lucide-react": "^0.436.0",
-    "next": "^14.2.12",
+    "next": "14.2.35",
     "node-appwrite": "^14.1.0",
     "plaid": "^28.0.0",
     "query-string": "^9.1.0",
