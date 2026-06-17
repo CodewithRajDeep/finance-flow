@@ -2,23 +2,21 @@
 
 import { useConfig } from "@/components/layout/ConfigContext";
 import { fetchSystemLogs } from "@/api/mockLedger";
+import { formatToTargetTimezone, enterpriseTimezones } from "@/services/timezone";
 import SectionHeader from "@/core/SectionHeader";
 import StatCard from "@/core/StatCard";
 import { TrendingUp, Activity, Layers } from "lucide-react";
 
 export default function InsightsPage() {
-  const { t, tz } = useConfig();
+  const { t, tz, lang } = useConfig();
   const activeLogs = fetchSystemLogs();
 
-  const convertTimestamp = (isoString: string) => {
-    const d = new Date(isoString);
-    if (tz === "UTC") return d.toUTCString().replace("GMT", "UTC");
-    if (tz === "EST") return d.toLocaleTimeString("en-US", { timeZone: "America/New_York" }) + " EST";
-    return d.toLocaleTimeString("en-IN", { timeZone: "Asia/Kolkata" }) + " IST";
-  };
+  // Find active profile structure for logging clean code suffixes on screen
+  const activeZoneMeta = enterpriseTimezones.find(z => z.canonical === tz);
+  const zoneLabel = activeZoneMeta ? activeZoneMeta.displayName.split(" ")[0] : "TIME";
 
   return (
-    <div className="space-y-6 max-w-6xl animate-in fade-in duration-300">
+    <div className="space-y-6 max-w-6xl animate-in fade-in slide-in-from-bottom-4 duration-500 ease-out">
       <SectionHeader title={t("insightsTitle")} description={t("insightsDesc")} />
 
       <div className="grid gap-4 md:grid-cols-3">
@@ -29,14 +27,19 @@ export default function InsightsPage() {
 
       <div className="bg-[#161820] border border-[#242838] rounded-xl overflow-hidden">
         <div className="p-4 border-b border-[#242838] bg-[#0D0E12]/30">
-          <span className="text-xs font-bold tracking-wider text-[#38BDF8] uppercase">{t("auditTrailTitle")}</span>
+          <span className="text-xs font-bold tracking-wider text-[#38BDF8] uppercase">
+            {t("auditTrailTitle")}
+          </span>
         </div>
         <div className="divide-y divide-[#242838]">
           {activeLogs.map((log, index) => (
             <div key={index} className="p-4 flex items-center justify-between hover:bg-[#0D0E12]/30 smooth-transition">
               <div className="space-y-1">
                 <p className="text-xs font-medium text-[#E4E4E7]">{t(log.eventKey)}</p>
-                <p className="text-[11px] text-[#A1A1AA] font-mono">{convertTimestamp(log.baseTime)}</p>
+                {/* Leveraging the decoupled pure core rendering engine */}
+                <p className="text-[11px] text-[#A1A1AA] font-mono">
+                  {formatToTargetTimezone(log.baseTime, tz, lang.toLowerCase())} [{zoneLabel}]
+                </p>
               </div>
               <span className="text-[11px] font-mono font-bold text-[#38BDF8] bg-sky-500/5 px-2.5 py-1 rounded border border-sky-500/10 uppercase">
                 {t(log.value)}

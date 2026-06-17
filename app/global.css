@@ -4,7 +4,6 @@
 
 @layer base {
   :root {
-    /* System Global Variable Palettes (Custom Dark Mode Optimization) */
     --background: 240 10% 3.9%;
     --foreground: 0 0% 98%;
     
@@ -45,18 +44,23 @@
   body {
     background-color: #0D0E12;
     color: #E4E4E7;
-    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    @apply font-sans tracking-tight select-none;
+  }
+
+
+  h1, h2, h3, h4, span, label, p, select, input, button {
+    @apply font-sans tracking-tight;
   }
 }
 
 .smooth-transition {
-  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-
+/* Glassmorphism panel frosting utility hook */
 .glass-panel {
   background: rgba(22, 24, 32, 0.7);
   backdrop-filter: blur(12px);
@@ -64,9 +68,10 @@
   border: 1px solid rgba(36, 40, 56, 0.6);
 }
 
+/* Clean, modern, unified scrollbars for workspace index boards */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 4px;
+  height: 4px;
 }
 
 ::-webkit-scrollbar-track {
@@ -75,15 +80,15 @@
 
 ::-webkit-scrollbar-thumb {
   background: #242838;
-  border-radius: 100px;
+  border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   background: #38BDF8;
 }
 
-/* Selection isolation utility style */
+/* Selection isolation canvas style */
 ::selection {
-  background-color: rgba(56, 189, 248, 0.2);
+  background-color: rgba(56, 189, 248, 0.15);
   color: #38BDF8;
 }
