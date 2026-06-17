@@ -1,7 +1,7 @@
 ## Title: FinanceFlow
 
 ## <a name="description">Description</a>
-This project aims to address these shortcomings by developing a robust and innovative centralized banking system with customized  finance management platform that integrates seamlessly with online banking functionalities. This platform will empower users to consolidate multiple financial accounts into a single, secure interface, gain real-time insights into spending habits, budgeting, and investment performance, set and track financial goals effectively, access personalized financial advice and recommendations, and conduct  secure online transactions with ease.
+This project aims to address these shortcomings by developing a robust and innovative centralized banking system with customized  finance management platform that integrates seamlessly with online banking functionalities. This platform will empower users to consolidate multiple financial accounts into a single, secure interface, gain real-time insights into spending habits, budgeting, and investment performance, set and track financial goals effectively, access personalized financial advice and recommendations, and conduct  secure online transaction with ease.
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
