@@ -46,7 +46,7 @@ function AppShellCanvas({ children }: { children: React.ReactNode }) {
                   <p className="text-[10px] text-[#A1A1AA] font-mono">{t("coreHash")}: v2.0.4-STABLE</p>
                 </div>
 
-                {/* Global Timezone Selection */}
+                
                 <div className="space-y-1.5">
                  <label className="text-[10px] uppercase tracking-wider text-[#A1A1AA] flex items-center gap-1 font-semibold">
                  <Clock className="h-3 w-3" /> {t("timezoneIntegration")}
@@ -58,7 +58,7 @@ function AppShellCanvas({ children }: { children: React.ReactNode }) {
                       </option> ))}
                        </select>
                        </div>
-                {/* Global Language Selection */}
+                
                 <div className="space-y-1.5">
                   <label className="text-[10px] uppercase tracking-wider text-[#A1A1AA] flex items-center gap-1 font-semibold">
                     <Globe className="h-3 w-3" /> {t("systemLocalization")}
